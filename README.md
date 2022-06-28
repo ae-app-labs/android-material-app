@@ -1,2 +1,3 @@
-# android-experiments
-experimental and sample android projects
+# material-app
+
+An experimental and sample android project
